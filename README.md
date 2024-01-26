@@ -1,4 +1,9 @@
 # Countdown Timer
+<img width="750" alt="Screen Shot 2024-01-25 at 3 15 03 PM" src="https://github.com/anshuljg07/Countdown-Timer-Assembly/assets/72891464/ac32fa95-cf58-4fe1-a141-337c4e05df81">
+<br />
+
+## Overview
+The Embedded Countdown Timer is a hands-on project that integrates hardware and software to create a functional countdown timer. This project leverages 7-segment displays driven by 8-bit shift registers, offering a practical learning experience for embedded systems enthusiasts.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -6,8 +11,7 @@
 - [Technical Details](#technical-details)
 - [Conclusion](#conclusion)
 
-## Overview
-The Embedded Countdown Timer is a hands-on project that integrates hardware and software to create a functional countdown timer. This project leverages 7-segment displays driven by 8-bit shift registers, offering a practical learning experience for embedded systems enthusiasts.
+
 
 ## Features
 - Countdown timer from 0 to 25 seconds.
