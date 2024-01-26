@@ -54,5 +54,13 @@ The software component is structured as follows:
 ## Conclusion
 This Countdown Timer built using Assembly served as a comprehensive learning experience in embedded systems development. It provides insights into assembly programming, circuit design, and debugging skills for both hardware and software components. Starting as a beginner this project equipped me with practical knowledge in the field of embedded systems and even computer architecture!
 
+## Contributors
+This project was developed and is currently maintained by Anshul Gowda and Rafael Ragel de la Tejera.
+
+## Get in Contact:
+ [Anshul Gowda's LinkedIn](https://www.linkedin.com/in/anshul-gowda)
+<br />
+Rafa Rangel de la Tejera's LinkedIn
+<br />
 
 
