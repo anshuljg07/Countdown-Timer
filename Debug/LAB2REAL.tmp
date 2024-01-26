@@ -1,0 +1,54 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>H:\Embedded\LAB2REAL\LAB2REAL\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>H:\Embedded\LAB2REAL\LAB2REAL\Debug\LAB2REAL.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LAB2REAL.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LAB2REAL.map</FILE>
+  <FILE>LAB2REAL.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <display><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>96</LINE></display>
+  <start><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>49</LINE></start>
+  <checkButtonStatus><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>182</LINE></checkButtonStatus>
+  <loop><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>103</LINE></loop>
+  <set_ser_in_1><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>108</LINE></set_ser_in_1>
+  <end><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>111</LINE></end>
+  <loop1><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>124</LINE></loop1>
+  <set_ser_in_2><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>129</LINE></set_ser_in_2>
+  <end2><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>136</LINE></end2>
+  <sampleDelay><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>161</LINE></sampleDelay>
+  <d1><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>166</LINE></d1>
+  <d2><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>168</LINE></d2>
+  <buttonAPressed><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>197</LINE></buttonAPressed>
+  <buttonBPressed><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>216</LINE></buttonBPressed>
+  <numberSamples><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>238</LINE></numberSamples>
+  <reset><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>248</LINE></reset>
+  <changeValue><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>257</LINE></changeValue>
+  <startTimer><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>229</LINE></startTimer>
+  <check0><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>259</LINE></check0>
+  <check1><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>271</LINE></check1>
+  <digit0><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>264</LINE></digit0>
+  <check2><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>283</LINE></check2>
+  <digit1><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>276</LINE></digit1>
+  <check3><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>295</LINE></check3>
+  <digit2><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>288</LINE></digit2>
+  <check4><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>307</LINE></check4>
+  <digit3><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>300</LINE></digit3>
+  <digit4><FILE>H:\Embedded\LAB2REAL\LAB2REAL\main.asm</FILE><LINE>312</LINE></digit4>
+ </LABELS>
+</ASSEMBLER_INFO>
